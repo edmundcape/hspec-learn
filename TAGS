@@ -1,0 +1,23 @@
+
+./Setup.hs,15
+main main1,2
+
+./src/Lib.hs,33
+module Lib Lib0,1
+add add2,3
+
+./src/Main.hs,65
+module Main Main0,1
+main main2,3
+main main3,4
+add add6,7
+
+./src/quickcheck.hs,33
+module QC QC0,1
+main main4,5
+
+./test/Main.hs,69
+module Main Main1,2
+main main7,8
+main main8,9
+spec spec11,12
